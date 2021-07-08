@@ -1,24 +1,94 @@
+@import url(https://fonts.google.com/specimen/Inter);
+@import url(https://fonts.google.com/specimen/Lexend+Deca);
+
 /* Behind card component */
 body{
     background-color: hsl(233, 47%, 7%);
     color:white;
     font-size: 15px;
     text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+
+.card{
+    background-color:hsl(244, 38%, 16%);
+    width:1440px;
+    margin:auto;
 }
 
 /* Main heading */
-h1{
+.heading{
+    font-size: 30px;
+    font-weight: bold;
     color:white;
+}
+
+.main-paragraph{
+    font-weight: normal;
     opacity: 0.75;
 }
 
-/* Stat headings */
-h2{
-    color:white;
-    opacity: 0.6;
+/* Stat information - all */
+.stats{
+    opacity: 1;
+    font-weight: bold;
 }
 
-@import url(https://fonts.google.com/specimen/Inter);
+/* Stat figures */
 
-@import url(https://fonts.google.com/specimen/Lexend+Deca);
+.fig1{
+    font-weight:bold;
+    float:inline-start;
+    display:inline;
+    width:32%;
+}
+
+.fig2{
+    font-weight:bold;
+    float:inline-start;
+    display:inline;
+    width:32%;
+}
+
+.fig3{
+    font-weight:bold;
+    float:inline-start;
+    display:inline;
+    width:32%;
+}
+
+/* Stat headings */
+
+.sthds{
+    font-family: 'Lexend Deca', sans-serif;
+}
+.sthd1{
+    font-weight:normal;
+    float:inline-start;
+    display:inline;
+    width:32%;
+}
+
+.sthd2{
+    font-weight:normal;
+    float:inline-start;
+    display:inline;
+    width:32%;
+}
+
+.sthd3{
+    font-weight:normal;
+    float:inline-start;
+    display:inline;
+    width:32%;
+}
+
+.attribution{
+font-size:11px;
+text-align: center;
+}
+
+.attribution a{
+    color:hsl(228,45%,44%);
+}
 
