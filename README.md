@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./stats-card-screenshot.png)
+![](./images/stats-card-screenshot.png)
 
 
 ### Links
