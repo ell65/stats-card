@@ -22,7 +22,7 @@ Users should be able to:
 
 ### What I learned
 
-Every line of code in this project is something I learned for the first time this week. 
+Every line of code in this project is something I learned for the first time this week! :)
 
 ### Continued development
 
